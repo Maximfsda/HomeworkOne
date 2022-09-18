@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         //Task1
         var dog = 8;
         var cat = 3.6;
